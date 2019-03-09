@@ -1,2 +1,2 @@
 # 02c4e76deefb30a0f92b98c30b43a23b7d5e9e466033345e2bf7b43fca4ef67f65
-https://lightning.bitcoinchain.com/?_ga=2.150481268.376198627.1552111087-428677836.1552111087
+https://lightning.bitcoinchain.com
